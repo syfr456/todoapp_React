@@ -1,0 +1,49 @@
+.Home{
+    align-items: center;
+    /* height:100vh; */
+    padding-top: 50px;
+
+}
+
+.searchBar{ 
+  width: 30rem;
+  height: 50px;
+  border-color: #8080804f;
+}
+
+.addButton{
+    background: linear-gradient(95deg, #4ac29a 60%, #bdfff3 100%);
+    width: 6rem;
+    border: none;
+    font-size: medium;
+    color: white;
+
+  }
+  
+.tinggi{
+    height: 35px;
+}
+
+.modal {
+  display: flex;
+  box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+  background-color: white;
+  border: 2px solid rgb(240, 240, 240);
+  border-radius: 12px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 50px;
+  top: 70px;
+  left: calc(50% - 125px);
+  bottom: 70px;
+}
+
+.card {
+  height: fit-content;
+  margin: 20px;
+  /* color: white; */
+  font-weight: bold;
+  font-size: medium;
+}
+
+
